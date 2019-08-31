@@ -1310,3 +1310,8 @@ type 为 all 时，category 参数不支持 cost 和 free
 ### 全文
 
 <Route author="HenryQW" example="/zzz" path="/zzz/index"/>
+
+
+### xj.hk A股买入股票信号
+
+<Route author="frank" example="/trade/xjhk" path="/trade/xjhk"/>
